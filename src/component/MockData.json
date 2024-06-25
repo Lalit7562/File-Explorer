@@ -1,0 +1,39 @@
+{
+  "name": "root",
+  "isFolder": true,
+  "children": [
+    {
+      "name": "Documents",
+      "isFolder": true,
+      "children": [
+        {
+          "name": "Resume.docx",
+          "isFolder": false
+        },
+        {
+          "name": "CoverLetter.docx",
+          "isFolder": false
+        }
+      ]
+    },
+    {
+      "name": "Photos",
+      "isFolder": true,
+      "children": [
+        {
+          "name": "Vacation.png",
+          "isFolder": false
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "isFolder": true,
+      "children": []
+    },
+    {
+      "name": "README.txt",
+      "isFolder": false
+    }
+  ]
+}

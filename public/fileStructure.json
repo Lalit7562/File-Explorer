@@ -1,0 +1,48 @@
+{
+  "name": "files",
+  "isFolder": true,
+  "path": "\\files",
+  "children": [
+    {
+      "name": "Documents",
+      "isFolder": true,
+      "path": "\\files\\Documents",
+      "children": [
+        {
+          "name": "demo.docx",
+          "isFolder": false,
+          "path": "\\files\\Documents\\demo.docx"
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "isFolder": true,
+      "path": "\\files\\Music",
+      "children": [
+        {
+          "name": "file_example_MP3_700KB.mp3",
+          "isFolder": false,
+          "path": "\\files\\Music\\file_example_MP3_700KB.mp3"
+        }
+      ]
+    },
+    {
+      "name": "Photos",
+      "isFolder": true,
+      "path": "\\files\\Photos",
+      "children": [
+        {
+          "name": "img1.jpg",
+          "isFolder": false,
+          "path": "\\files\\Photos\\img1.jpg"
+        },
+        {
+          "name": "img2.jpg",
+          "isFolder": false,
+          "path": "\\files\\Photos\\img2.jpg"
+        }
+      ]
+    }
+  ]
+}
